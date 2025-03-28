@@ -1,0 +1,20 @@
+{
+  "chime": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "chime",
+        "stream": false
+      }
+    ]
+  },
+  "warning": {
+    "category" : "master",
+    "sounds" : [
+      {
+        "name" : "warning",
+        "stream": false
+      }
+    ]
+  }
+}
